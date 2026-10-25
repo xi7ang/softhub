@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SoftHub · 软件源神</title>
+    <meta name="description" content="SoftHub：精选免费与开源软件分享站，所有下载链接均指向官方页面，本站不托管任何文件。" />
+    <script>
+      // 首屏前应用主题，避免深色/浅色闪烁；与 src/lib/theme.js 保持同一规则。
+      try {
+        var t = localStorage.getItem('softhub-theme')
+        if (t !== 'dark' && t !== 'light') {
+          t = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
+        }
+        document.documentElement.dataset.theme = t
+      } catch (e) {
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

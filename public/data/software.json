@@ -1,0 +1,701 @@
+[
+  {
+    "category": "办公开发",
+    "desc": "微软出品的轻量代码编辑器，启动快、插件生态丰富，写前端、Python、Go 等都很顺手，是很多开发者的日常主力编辑器。",
+    "download": "https://code.visualstudio.com/download",
+    "enName": "VS Code",
+    "id": "vscode",
+    "license": "开源免费",
+    "name": "Visual Studio Code",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "编辑器",
+      "代码",
+      "插件"
+    ],
+    "website": "https://code.visualstudio.com/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "办公开发",
+    "desc": "目前最主流的分布式版本控制工具，几乎所有开源项目都在用它管理代码，学会分支与合并是协作开发的基本功。",
+    "download": "https://git-scm.com/downloads",
+    "enName": "Git",
+    "id": "git",
+    "license": "开源免费",
+    "name": "Git",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "版本控制",
+      "代码",
+      "协作"
+    ],
+    "website": "https://git-scm.com/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "办公开发",
+    "desc": "语法简洁易读的编程语言，覆盖脚本、数据分析、Web 开发和自动化等一大片场景，新手入门和老手干活都合适。",
+    "download": "https://www.python.org/downloads/",
+    "enName": "Python",
+    "id": "python",
+    "license": "开源免费",
+    "name": "Python",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "编程语言",
+      "脚本",
+      "数据分析"
+    ],
+    "website": "https://www.python.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "办公开发",
+    "desc": "把 JavaScript 带到服务端的运行环境，前后端用同一种语言就能写全栈，配套的包管理器里有海量现成模块可用。",
+    "download": "https://nodejs.org/en/download",
+    "enName": "Node.js",
+    "id": "nodejs",
+    "license": "开源免费",
+    "name": "Node.js",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "JavaScript",
+      "服务端",
+      "全栈"
+    ],
+    "website": "https://nodejs.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "办公开发",
+    "desc": "用容器把应用和它的运行环境打包在一起，换台机器照样跑，部署和复现环境时能省掉大量“在我机器上明明可以”的麻烦。",
+    "download": "https://www.docker.com/products/docker-desktop/",
+    "enName": "Docker",
+    "id": "docker",
+    "license": "开源免费",
+    "name": "Docker",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "容器",
+      "部署",
+      "环境"
+    ],
+    "website": "https://www.docker.com/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "办公开发",
+    "desc": "Windows 上老牌的轻量文本编辑器，打开大文件不卡，支持几十种语言高亮，平时改配置、看日志随手就能用。",
+    "download": "https://notepad-plus-plus.org/downloads/",
+    "enName": "Notepad++",
+    "id": "notepad-plus-plus",
+    "license": "开源免费",
+    "name": "Notepad++",
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "编辑器",
+      "文本",
+      "轻量"
+    ],
+    "website": "https://notepad-plus-plus.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "办公开发",
+    "desc": "调试接口的标配工具，发请求、看返回、管理接口集合都在一个界面里完成，联调前后端时基本离不开它。",
+    "download": "https://www.postman.com/downloads/",
+    "enName": "Postman",
+    "id": "postman",
+    "license": "免费",
+    "name": "Postman",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "接口调试",
+      "API",
+      "联调"
+    ],
+    "website": "https://www.postman.com/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "办公开发",
+    "desc": "Windows 自动化脚本工具，几行脚本就能实现热键、文本扩展和重复操作自动化，适合把日常机械操作交给电脑自己做。",
+    "download": "https://www.autohotkey.com/download/",
+    "enName": "AutoHotkey",
+    "id": "autohotkey",
+    "license": "开源免费",
+    "name": "AutoHotkey",
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "自动化",
+      "热键",
+      "脚本"
+    ],
+    "website": "https://www.autohotkey.com/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "媒体播放",
+    "desc": "几乎什么格式都能播的开源播放器，不用另外装解码包，本地视频、音乐、网络串流一把抓，还能顺手转码和截图。",
+    "download": "https://www.videolan.org/vlc/download-windows.html",
+    "enName": "VLC media player",
+    "id": "vlc",
+    "license": "开源免费",
+    "name": "VLC",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "播放器",
+      "视频",
+      "音乐"
+    ],
+    "website": "https://www.videolan.org/vlc/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "媒体处理",
+    "desc": "免费开源的录屏与直播工具，支持多场景切换、混音和推流，主播和做教程的人基本人手一个。",
+    "download": "https://obsproject.com/download",
+    "enName": "OBS Studio",
+    "id": "obs",
+    "license": "开源免费",
+    "name": "OBS Studio",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "录屏",
+      "直播",
+      "推流"
+    ],
+    "website": "https://obsproject.com/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "媒体处理",
+    "desc": "跨平台的开源音频编辑器，剪辑、降噪、变速、导出多格式都够用，播客剪辑和简单修音用它完全没问题。",
+    "download": "https://www.audacityteam.org/download/",
+    "enName": "Audacity",
+    "id": "audacity",
+    "license": "开源免费",
+    "name": "Audacity",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "音频",
+      "剪辑",
+      "播客"
+    ],
+    "website": "https://www.audacityteam.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "媒体处理",
+    "desc": "开源视频转码工具，能把各种视频压成体积更小、兼容性更好的格式，批量处理和预设齐全，适合整理片库。",
+    "download": "https://handbrake.fr/downloads.php",
+    "enName": "HandBrake",
+    "id": "handbrake",
+    "license": "开源免费",
+    "name": "HandBrake",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "转码",
+      "压缩",
+      "视频"
+    ],
+    "website": "https://handbrake.fr/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "办公软件",
+    "desc": "免费开源的办公套件，文字、表格、演示全套都有，能打开和保存常见的 Office 文档格式，不花钱也能正常办公。",
+    "download": "https://www.libreoffice.org/download/download-libreoffice/",
+    "enName": "LibreOffice",
+    "id": "libreoffice",
+    "license": "开源免费",
+    "name": "LibreOffice",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "办公",
+      "文档",
+      "表格",
+      "演示"
+    ],
+    "website": "https://www.libreoffice.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "浏览器",
+    "desc": "注重隐私的开源浏览器，扩展丰富，标签页管理和隐私保护做得扎实，是不想被单一厂商绑定的稳妥选择。",
+    "download": "https://www.mozilla.org/firefox/new/",
+    "enName": "Mozilla Firefox",
+    "id": "firefox",
+    "license": "开源免费",
+    "name": "Firefox",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "浏览器",
+      "隐私",
+      "上网"
+    ],
+    "website": "https://www.mozilla.org/firefox/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "办公软件",
+    "desc": "开源邮件客户端，支持多邮箱、RSS 和日历扩展，本地存邮件、不依赖网页邮箱，适合邮箱多、邮件量大的人。",
+    "download": "https://www.thunderbird.net/download/",
+    "enName": "Mozilla Thunderbird",
+    "id": "thunderbird",
+    "license": "开源免费",
+    "name": "Thunderbird",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "邮件",
+      "邮箱",
+      "RSS"
+    ],
+    "website": "https://www.thunderbird.net/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "上传下载",
+    "desc": "经典的开源 FTP 客户端，拖放传文件、断点续传、站点管理都很直观，往服务器传网站文件时最常用它。",
+    "download": "https://filezilla-project.org/download.php",
+    "enName": "FileZilla",
+    "id": "filezilla",
+    "license": "开源免费",
+    "name": "FileZilla",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "FTP",
+      "传输",
+      "服务器"
+    ],
+    "website": "https://filezilla-project.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "小说阅读",
+    "desc": "电子书管理神器，整理书库、格式转换、推送到阅读器一条龙，藏书多的人靠它能把书库收拾得井井有条。",
+    "download": "https://calibre-ebook.com/download",
+    "enName": "Calibre",
+    "id": "calibre",
+    "license": "开源免费",
+    "name": "Calibre",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "电子书",
+      "阅读",
+      "格式转换"
+    ],
+    "website": "https://calibre-ebook.com/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "录像截图",
+    "desc": "Windows 上的免费截图录屏工具，截图后可直接标注、上传、生成链接，还支持 GIF 录制，写文档做反馈特别顺手。",
+    "download": "https://getsharex.com/downloads",
+    "enName": "ShareX",
+    "id": "sharex",
+    "license": "开源免费",
+    "name": "ShareX",
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "截图",
+      "录屏",
+      "标注"
+    ],
+    "website": "https://getsharex.com/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "系统增强",
+    "desc": "小巧免费的压缩解压工具，解压率高、支持格式多，右键菜单一点就能解包，装机后基本就不用再找别的压缩软件。",
+    "download": "https://www.7-zip.org/download.html",
+    "enName": "7-Zip",
+    "id": "7zip",
+    "license": "开源免费",
+    "name": "7-Zip",
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "压缩",
+      "解压",
+      "装机"
+    ],
+    "website": "https://www.7-zip.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "系统增强",
+    "desc": "Windows 文件秒搜工具，输入几个字就全盘定位文件，找东西的速度比系统自带搜索快一个数量级，装上就回不去。",
+    "download": "https://www.voidtools.com/downloads/",
+    "enName": "Everything",
+    "id": "everything",
+    "license": "免费",
+    "name": "Everything",
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "搜索",
+      "文件",
+      "效率"
+    ],
+    "website": "https://www.voidtools.com/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "系统增强",
+    "desc": "制作启动 U 盘的小工具，体积小、速度快，装系统、做 PE 盘、写镜像都用它，一个文件就能跑不用安装。",
+    "download": "https://rufus.ie/downloads/",
+    "enName": "Rufus",
+    "id": "rufus",
+    "license": "开源免费",
+    "name": "Rufus",
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "启动盘",
+      "装系统",
+      "U盘"
+    ],
+    "website": "https://rufus.ie/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "办公开发",
+    "desc": "Windows 上最常用的 SSH 客户端，免费小巧，远程连服务器、传密钥、开终端会话都靠它，运维入门必装。",
+    "download": "https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html",
+    "enName": "PuTTY",
+    "id": "putty",
+    "license": "开源免费",
+    "name": "PuTTY",
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "SSH",
+      "终端",
+      "远程"
+    ],
+    "website": "https://www.putty.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "系统增强",
+    "desc": "免费的虚拟机软件，能在一台电脑里同时跑多个系统，试新系统、隔离测试环境、学 Linux 都不用另外准备机器。",
+    "download": "https://www.virtualbox.org/wiki/Downloads",
+    "enName": "Oracle VirtualBox",
+    "id": "virtualbox",
+    "license": "开源免费",
+    "name": "VirtualBox",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "虚拟机",
+      "多系统",
+      "测试"
+    ],
+    "website": "https://www.virtualbox.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "上传下载",
+    "desc": "干净无广告的开源下载工具，界面清爽、功能齐全，支持订阅、搜索插件和远程 Web 界面，适合长期挂机下载。",
+    "download": "https://www.qbittorrent.org/download",
+    "enName": "qBittorrent",
+    "id": "qbittorrent",
+    "license": "开源免费",
+    "name": "qBittorrent",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "下载",
+      "BT",
+      "无广告"
+    ],
+    "website": "https://www.qbittorrent.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "图形图像",
+    "desc": "开源的图像编辑器，修图、抠图、合成、加滤镜都能做，插件和脚本还能继续扩展，不花钱也能完成大部分图片处理活。",
+    "download": "https://www.gimp.org/downloads/",
+    "enName": "GIMP",
+    "id": "gimp",
+    "license": "开源免费",
+    "name": "GIMP",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "修图",
+      "图像",
+      "抠图"
+    ],
+    "website": "https://www.gimp.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "三维设计",
+    "desc": "全能的开源 3D 创作套件，建模、雕刻、动画、渲染、剪辑一条龙，从独立游戏到短片制作都有人在用它出活。",
+    "download": "https://www.blender.org/download/",
+    "enName": "Blender",
+    "id": "blender",
+    "license": "开源免费",
+    "name": "Blender",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "3D",
+      "建模",
+      "动画",
+      "渲染"
+    ],
+    "website": "https://www.blender.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "图形图像",
+    "desc": "开源矢量绘图工具，画 Logo、海报、插画和图标都很趁手，节点编辑和布尔运算齐全，是矢量创作的免费主力。",
+    "download": "https://inkscape.org/release/",
+    "enName": "Inkscape",
+    "id": "inkscape",
+    "license": "开源免费",
+    "name": "Inkscape",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "矢量",
+      "插画",
+      "Logo"
+    ],
+    "website": "https://inkscape.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "图形图像",
+    "desc": "为画师而生的开源绘画软件，笔刷引擎强大、手感跟手，画插画、漫画和概念图都有很多人用它作为主力工具。",
+    "download": "https://krita.org/en/download/",
+    "enName": "Krita",
+    "id": "krita",
+    "license": "开源免费",
+    "name": "Krita",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "绘画",
+      "插画",
+      "笔刷"
+    ],
+    "website": "https://krita.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "图形图像",
+    "desc": "Windows 上介于画图和专业修图之间的免费工具，上手几乎零成本，图层、特效、插件都有，日常改图够用。",
+    "download": "https://www.getpaint.net/download.html",
+    "enName": "Paint.NET",
+    "id": "paint-net",
+    "license": "免费",
+    "name": "Paint.NET",
+    "platforms": [
+      "Windows"
+    ],
+    "tags": [
+      "修图",
+      "图层",
+      "轻量"
+    ],
+    "website": "https://www.getpaint.net/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "系统增强",
+    "desc": "开源密码管理器，密码库存在本地自己手里，支持自动填充和浏览器扩展，不用把所有密码交给云端服务。",
+    "download": "https://keepassxc.org/download/",
+    "enName": "KeePassXC",
+    "id": "keepassxc",
+    "license": "开源免费",
+    "name": "KeePassXC",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "密码",
+      "安全",
+      "本地"
+    ],
+    "website": "https://keepassxc.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  },
+  {
+    "category": "IT·互联网",
+    "desc": "网络抓包分析的标准工具，能把网卡上的数据包一条条展开看，排查网络问题、学习网络协议都离不开它。",
+    "download": "https://www.wireshark.org/download.html",
+    "enName": "Wireshark",
+    "id": "wireshark",
+    "license": "开源免费",
+    "name": "Wireshark",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "tags": [
+      "抓包",
+      "网络",
+      "分析"
+    ],
+    "website": "https://www.wireshark.org/",
+    "netdisks": [],
+    "image": "",
+    "screenshots": []
+  }
+]
